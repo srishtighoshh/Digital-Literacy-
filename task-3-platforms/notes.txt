@@ -1,1 +1,5 @@
+Platforms Used: HackerRank and Google Forms
 
+In this task, I used HackerRank to practice coding by solving a beginner-level problem, which helped improve my understanding of basic programming logic. I also created a Digital Literacy Awareness Quiz using Google Forms, which included multiple choice and short answer questions.
+
+This task helped me understand how coding platforms can be used for skill development and how Google Workspace tools can be used for collaboration and data collection. These tools will help me academically by improving my problem-solving skills and enabling me to create interactive learning resources for others.
