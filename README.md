@@ -1,4 +1,4 @@
-# Digital Literacy Project
+ # Digital Literacy Project
 
 ## 👩‍🎓 Student Details
 - Name: Srishti Ghosh  
